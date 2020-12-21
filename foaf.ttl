@@ -21,12 +21,12 @@
   foaf:schoolHomepage <https://finki.ukim.mk/> ;
   foaf:knows [
     a foaf:Person ;
-    foaf:name "Test1" ;
-    foaf:mbox_sha1sum "ab1b8a89ee368d9915a2e9c57e63922e77a62553" ;
-    rdfs:seeAlso <https://gist.githubusercontent.com/thibaudcolas/3310423/raw/77fd45caa0193ff321a760e817f64ba8637adc1c/foaf.rdf>
+    foaf:name "Kristijan" ;
+    foaf:mbox_sha1sum "ebeaa0c3fe454579a87d46380f17493d53d2209d" ;
+    rdfs:seeAlso <https://raw.githubusercontent.com/kristijanvlahov/wbs/main/foaf.ttl>
   ], [
     a foaf:Person ;
-    foaf:name "Test2" ;
-    foaf:mbox_sha1sum "5ddbb10c62260b067f74db87e8778c7266c5ba62" ;
-    rdfs:seeAlso <https://raw.githubusercontent.com/sjcockell/foaf-rdf/master/foaf.rdf>
+    foaf:name "Vladimir" ;
+    foaf:mbox_sha1sum "ed4599542f86a3437f9f6395d9bf99e412f1ffa8" ;
+    rdfs:seeAlso <https://raw.githubusercontent.com/vblazhes/linked-data-foaf-profile/master/foaf.ttl>
   ] .
